@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igenius.DesktopDevOPInt.Sample", "Igenius.DesktopDevOPInt.Sample\Igenius.DesktopDevOPInt.Sample.csproj", "{8654ABD4-3471-24BC-3769-13676B4EE13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igenius.DesktopDevOPInt.Sample.Core", "Igenius.DesktopDevOPInt.Sample.Core\Igenius.DesktopDevOPInt.Sample.Core.csproj", "{32CB7524-F0C9-42EA-BC36-7B68838A26A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8654ABD4-3471-24BC-3769-13676B4EE13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8654ABD4-3471-24BC-3769-13676B4EE13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8654ABD4-3471-24BC-3769-13676B4EE13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8654ABD4-3471-24BC-3769-13676B4EE13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CB7524-F0C9-42EA-BC36-7B68838A26A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CB7524-F0C9-42EA-BC36-7B68838A26A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CB7524-F0C9-42EA-BC36-7B68838A26A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CB7524-F0C9-42EA-BC36-7B68838A26A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249C16C6-0216-45B5-95BA-8D7E5D890909}
+	EndGlobalSection
+EndGlobal
