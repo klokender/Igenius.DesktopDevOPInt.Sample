@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///D:/DevOPs/Igenius.DesktopDevOPInt.Sample/AutoUpdate Folder/igenius.Devops.SampleInstaller.appinstaller"
+	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="723a86bc-298f-4a71-bcdf-759e7975bcc9"
+		Version="1.0.2.0"
+		Publisher="CN=igenius"
+		Uri="file:///D:/DevOPs/Igenius.DesktopDevOPInt.Sample/AutoUpdate Folder/igenius.Devops.SampleInstaller_1.0.2.0_Debug_Test/igenius.Devops.SampleInstaller_1.0.2.0_x86_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
