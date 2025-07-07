@@ -61,7 +61,7 @@ namespace Igenius.DesktopDevOPInt.Sample.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to iGenius DevOps integration Sample V1.0.
+        ///   Looks up a localized string similar to iGenius DevOps integration Sample V1.1.
         /// </summary>
         public static string AppDisplayName {
             get {
@@ -79,7 +79,7 @@ namespace Igenius.DesktopDevOPInt.Sample.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Landing Page - Igenius sample application V1.0.
+        ///   Looks up a localized string similar to Landing Page - Igenius sample application V1.1.
         /// </summary>
         public static string MainPageTitle {
             get {

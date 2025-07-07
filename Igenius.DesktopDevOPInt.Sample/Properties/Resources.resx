@@ -157,7 +157,7 @@
     <value>Main</value>
   </data>
   <data name="MainPageTitle" xml:space="preserve">
-    <value>Landing Page - Igenius sample application V1.0</value>
+    <value>Landing Page - Igenius sample application V1.1</value>
   </data>
   <data name="ShellGoBackButton" xml:space="preserve">
     <value>Go back</value>
@@ -166,6 +166,6 @@
     <value>Open or close navigation</value>
   </data>
   <data name="AppDisplayName" xml:space="preserve">
-    <value>iGenius DevOps integration Sample V1.0</value>
+    <value>iGenius DevOps integration Sample V1.1</value>
   </data>
 </root>
